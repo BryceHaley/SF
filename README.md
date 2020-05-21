@@ -1,3 +1,1 @@
-# SF
-username: traction@hire.bryce
-password: EnterSecretCode1
+# A demo project where a built a basic library system on salesforce
